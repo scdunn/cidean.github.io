@@ -1,5 +1,7 @@
-## Chris Dunn GitHub
+## Chris Dunn on GitHub
 You can use the [editor on GitHub](https://github.com/scdunn/cidean.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+[Visit cidean.com](http://www.cidean.com)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
